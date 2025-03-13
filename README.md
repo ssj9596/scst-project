@@ -1,1 +1,1 @@
-# flexcam.github.io
+# https://ssj9596.github.io/scst-project/
